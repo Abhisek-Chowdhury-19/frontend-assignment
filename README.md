@@ -3,6 +3,8 @@
 A responsive **React + Vite** application that allows users to view and select available time slots (converted from UK time to local time).  
 The app also supports week navigation, slot selection, and prevents booking duplicate slots.
 
+> 💼 I’ve previously built a similar slot scheduling and booking system for **Techno India Hospital** — you can check it out here: [Techno India Hospital Slot System](https://rotarytechnonetralaya.com/)  
+
 ---
 
 ## 🚀 Features
